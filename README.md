@@ -28,8 +28,6 @@ npx -y @smithery/cli install @bbangjooo/mcp-finder-mcp-server --client claude
 
 ```bash
 npm install
-# 또는
-yarn install
 ```
 
 2. Set up environment variables
